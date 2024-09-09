@@ -324,43 +324,7 @@ export default function Home() {
               Problems trying to resolve the conflict between <br />the two major realms of Classical physics: Newtonian mechanics
             </p>
 
-            {/* <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-    
-            <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-              <div class="relative">
-                <img src="/path-to-image1.jpg" alt="Quick Examination" class="w-full h-48 object-cover"/>
-                  <span class="absolute top-4 left-4 bg-red-500 text-white px-2 py-1 text-xs font-semibold">Sale</span>
-                  <div class="absolute bottom-4 left-4 flex space-x-2">
-                    <button class="bg-white p-2 rounded-full shadow-md"><i class="fa fa-heart text-gray-600"></i></button>
-                    <button class="bg-white p-2 rounded-full shadow-md"><i class="fa fa-search text-gray-600"></i></button>
-                    <button class="bg-white p-2 rounded-full shadow-md"><i class="fa fa-cart-plus text-gray-600"></i></button>
-                  </div>
-              </div>
-              <div class="p-6">
-                <h4 class="text-red-500 font-semibold mb-2">Painless procedures</h4>
-                <h3 class="text-2xl font-bold mb-2">Quick examination</h3>
-                <p class="text-gray-500 mb-4">We focus on ergonomics and meeting you where you work. It's only a keystroke away.</p>
-                <div class="flex items-center justify-between mb-4">
-                  <div class="flex items-center">
-                    <i class="fa fa-star text-yellow-400 mr-1"></i>
-                    <span class="text-gray-600 text-sm font-semibold">4.9</span>
-                  </div>
-                  <div class="flex items-center">
-                    <i class="fa fa-shopping-cart text-gray-400 mr-1"></i>
-                    <span class="text-gray-600 text-sm">15 Sales</span>
-                  </div>
-                </div>
-                <div class="flex items-center justify-between">
-                  <div>
-                    <span class="line-through text-gray-400">$16.48</span>
-                    <span class="text-green-500 font-bold ml-2">$6.48</span>
-                  </div>
-                  <button class="bg-red-500 text-white px-4 py-2 rounded-lg">Learn More</button>
-                </div>
-              </div>
-            </div>
-           
-          </div> */}
+
             <div className="bg--[#e0f4f6] py-10">
               <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-6">
 
