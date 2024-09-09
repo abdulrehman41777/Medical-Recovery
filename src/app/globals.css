@@ -73,9 +73,10 @@
   }
 } */
 
+
 /* Font */
 body {
-  font-family: "Montserrat" !important;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* TypoGraphy */
